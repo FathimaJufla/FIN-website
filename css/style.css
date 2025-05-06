@@ -1,0 +1,22 @@
+.wrapper{
+    width: 85%;
+    margin: 0 auto;
+}
+
+
+@media (max-width: 767px) {
+    .wrapper {
+        width: 100%; 
+        height: auto; 
+    }
+}
+
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+
+  
+
+
